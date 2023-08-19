@@ -1,4 +1,4 @@
-package Clientes
+package clientes
 
 type Titular struct {
 	Nome      string
